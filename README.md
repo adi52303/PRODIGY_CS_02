@@ -16,3 +16,12 @@ A simple Python-based image encryption tool using pixel manipulation. The tool a
    git clone https://github.com/yourusername/image-encryption-tool.git
    cd image-encryption-tool
 
+
+2.Install dependencies:
+
+pip install -r requirements.txt
+
+3.Run the tool:
+
+python image_encryption.py 
+
